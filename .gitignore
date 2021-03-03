@@ -43,3 +43,4 @@ microblog.log*
 .flaskenv
 .gitattributes
 boot.sh
+.idea
